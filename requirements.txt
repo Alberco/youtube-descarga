@@ -1,0 +1,14 @@
+-i https://pypi.org/simple
+
+customtkinter==4.5.11
+
+darkdetect==0.8.0 ; python_version >= '3.6'
+
+ffmpeg-python==0.2.0
+
+future==0.18.3 ; python_version >= '2.6' and python_version not in '3.0, 3.1, 3.2'
+
+pillow==9.4.0
+
+pytube==12.1.2
+
